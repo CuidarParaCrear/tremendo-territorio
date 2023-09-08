@@ -1,4 +1,0 @@
-# tremendo-territorio
-Instructivo detallado para lograr una imagen que será usada por un Sistema de Información Geográfico.
-## Importante
-Este tutorial ha sido creado con fines educativos y tiene como objetivo ayudar a los usuarios en el manejo y comprensión de ciertas tecnologías. Aunque se ha hecho un esfuerzo por asegurar la precisión y utilidad de la información proporcionada, no podemos garantizar resultados específicos ni asumimos responsabilidad alguna por errores, omisiones, interpretaciones erróneas o mal uso de la información presentada. Cualquier daño, pérdida o inconveniente que resulte de seguir las instrucciones o consejos ofrecidos en este tutorial es de exclusiva responsabilidad del usuario. Recomendamos encarecidamente que los usuarios procedan con precaución, consulten fuentes adicionales y, en caso de duda, busquen asesoramiento profesional antes de tomar decisiones basadas en el contenido de este tutorial.
